@@ -1,7 +1,6 @@
 Tuliskan Nim dan Nama dibawah sini: 
 3337001 - Test
 3337000 - Test 2
-3337210033 - Nur Ali Arfan
 3337210069 
 3337210027 - Valdy Ramadhan
 3337210056 -  Iqbal Maftuha
@@ -10,3 +9,4 @@ Tuliskan Nim dan Nama dibawah sini:
 3337210026 - julkifli
 3337210024 - Wahyu Arief Rahman
 3337210022 - raka
+3337210038 - Haikal Azk
