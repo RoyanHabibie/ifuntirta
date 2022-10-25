@@ -1,6 +1,11 @@
 Tuliskan Nim dan Nama dibawah sini: 
 3337001 - Test
 3337000 - Test 2
+3337210069 Fallps
+3337210067 - Berliani Nasywa
+3337210050 - Mahesa Bima Wijaya
+3337210052 - Ahmad Nurdin
+3337210061 - muhamad amal wildan
 3337210033 - Nur Ali Arfan
 3337210069 - Affalah Pramudia
 3337210027 - Valdy Ramadhan
@@ -10,3 +15,4 @@ Tuliskan Nim dan Nama dibawah sini:
 3337210026 - julkifli
 3337210024 - Wahyu Arief Rahman
 3337210022 - raka
+3337210006 - Ahmad Khoirul Umam
